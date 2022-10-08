@@ -1,6 +1,6 @@
 # Retail-Sales-Analytics
 
-* Sample Dataset Contains the Retail Sales Data of United States . In this Project I have Used Tableau For Data Analysis and Create Visualizations.
+* Sample Dataset Contains the Retail Sales Data of United States from the year 2017 to 2020 . In this Project I have Used Tableau For Data Analysis and Create Visualizations.
 
 
 ## DATASET -
