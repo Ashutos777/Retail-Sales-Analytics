@@ -15,8 +15,13 @@
 
 ## OBJECTIVES - 
 
-* Total Sales
-* 
+* Total Sales and Total Profit Between Year 2017 to 2020 .
+* Total Quantity Between 2017 to 2020 .
+* Average Discount Between Year 2017 to 2020 .
+* Monthly Sales Trend In the Year 2020 .
+* Sales by State .
+* Sales by Product Subcategory .
+* Region wise Sales .
 
 
 ## SAMPLE VISUALIZATION - 
