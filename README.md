@@ -1,19 +1,17 @@
 # Retail-Sales-Analytics
 
-* Sample Dataset Contains the Startups Data of Several different Countries of the World 🌏. In this Project I have Used Tableau For Data Analysis and Create Visualizations.
+* Sample Dataset Contains the Retail Sales Data . In this Project I have Used Tableau For Data Analysis and Create Visualizations.
 
 
 ## DATASET -
 
-* #### For Dataset Please Refer to : crunchbase_monthly_export.xlsx
+* #### For Dataset Please Refer to : Retail Sales Data.xlsx
 
 
 ## TOOLS USED - 
 
   ![download](https://user-images.githubusercontent.com/111995863/194266789-c26badc9-68db-4735-a31c-7e98749ab3c6.jpg)
-            ![download (7)](https://user-images.githubusercontent.com/111995863/194362147-1ea1c411-8eb1-4900-852d-2b2a10cdf5b1.png)
-
- * I have used PowerPoint to design the theme and template of the Global Startups Dashboard.
+            
 
 ## OBJECTIVES - 
 
@@ -33,8 +31,6 @@
 * First I have Cleaned the Null values and duplicates by using Tableau data interpreter option.
 
 * Secondly I have Created Relationship between Companies and Investments tables.
-
-* After that I have used the filter option which is placed in the top right corner to filter the data of founded year by selecting the range of values. 
 
 * Then I have checked the datatypes of all columns of the dataset whether it is correct or not.
 
