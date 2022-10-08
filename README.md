@@ -62,4 +62,4 @@
 
 
  * #### Tableau Public Link 🔗 for the Retail Sales Analytics Dashboard- 
- [https://public.tableau.com/app/profile/ashutos4987/viz/RetailSalesAnalysisDashboard_16652099168140/RetailSalesAnalysisDashboard?publish=yes]
+ [https://public.tableau.com/app/profile/ashutos4987/viz/RetailSalesAnalysisDashboard_16652099168140/RetailSalesAnalysisDashboard]
