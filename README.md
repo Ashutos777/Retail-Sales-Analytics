@@ -35,23 +35,13 @@
 * Then I have checked the datatypes of all columns of the dataset whether it is correct or not.
 
  
-![Screenshot 2022-10-06 192934](https://user-images.githubusercontent.com/111995863/194344755-11984b80-a28b-46e0-9635-9a2729918793.png)
+![Screenshot 2022-10-08 124522](https://user-images.githubusercontent.com/111995863/194695668-78f4086e-923a-4da3-a463-d90c5bd5d816.png)
 
-![Screenshot 2022-10-06 193049](https://user-images.githubusercontent.com/111995863/194344810-485dc9b6-7295-462a-9915-494878bda243.png)
+![Screenshot 2022-10-08 124625](https://user-images.githubusercontent.com/111995863/194695671-1ae369c4-ed29-4c3b-9e80-ad5424de3dec.png)
 
-![Screenshot 2022-10-06 193249](https://user-images.githubusercontent.com/111995863/194344828-3cb3e340-c867-411e-b3bc-d675164b9b84.png)
+![Screenshot 2022-10-08 124702](https://user-images.githubusercontent.com/111995863/194695675-516591ce-6676-430b-8196-35fb8bbb3097.png)
 
-![Screenshot 2022-10-06 193321](https://user-images.githubusercontent.com/111995863/194344841-9e2609e0-9665-421b-941a-d64b639a2bd1.png)
-
-![Screenshot 2022-10-06 193357](https://user-images.githubusercontent.com/111995863/194344851-191c3b9a-146e-4b91-bd6e-a01bc471ec63.png)
-
-![Screenshot 2022-10-06 193425](https://user-images.githubusercontent.com/111995863/194344861-43a2827c-042a-4583-831f-3777b08f18b9.png)
-
-![Screenshot 2022-10-06 193452](https://user-images.githubusercontent.com/111995863/194344882-bb03f0da-d199-4887-bcd2-20c862f22ca5.png)
-
-![Screenshot 2022-10-06 193532](https://user-images.githubusercontent.com/111995863/194344904-f953a594-2c15-431a-99ec-e735cfc4dc4b.png)
-
-![Screenshot (784)](https://user-images.githubusercontent.com/111995863/194578624-e325f33a-ce28-4408-b48e-412083e35e2e.png)
+![Screenshot 2022-10-08 125122](https://user-images.githubusercontent.com/111995863/194695679-40d4656c-4f57-499b-bc4c-d2cba0b455f8.png)
 
 
 
