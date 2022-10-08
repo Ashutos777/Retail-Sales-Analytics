@@ -1,6 +1,6 @@
 # Retail-Sales-Analytics
 
-* Sample Dataset Contains the Retail Sales Data . In this Project I have Used Tableau For Data Analysis and Create Visualizations.
+* Sample Dataset Contains the Retail Sales Data of United States . In this Project I have Used Tableau For Data Analysis and Create Visualizations.
 
 
 ## DATASET -
@@ -15,14 +15,8 @@
 
 ## OBJECTIVES - 
 
-* Total number of Startups.
-* Total Funding Amount.
-* Total number of Investors.
-* Total Investment Raised.
-* Top 10 Startups by Funding.
-* Top 10 markets by funding.
-* Top 10 Funding Round Types.
-* To find the Startup Status means total number of Startups, how many startups operating, acquired, closed and un-traced .
+* Total Sales
+* 
 
 
 ## SAMPLE VISUALIZATION - 
